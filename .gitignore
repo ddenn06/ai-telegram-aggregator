@@ -1,0 +1,15 @@
+# Віртуальне середовище
+.venv/
+venv/
+env/
+
+# Секретні ключі та налаштування
+.env
+
+# Сесії Telegram (КРИТИЧНО ВАЖЛИВО)
+*.session
+*.session-journal
+
+# Кеш Python
+__pycache__/
+*.pyc
